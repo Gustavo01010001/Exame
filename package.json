@@ -1,0 +1,21 @@
+{
+  "name": "exame",
+  "version": "1.0.0",
+  "description": "Sistema de petshop",
+  "homepage": "https://github.com/Gustavo01010001/Exame#readme",
+  "bugs": {
+    "url": "https://github.com/Gustavo01010001/Exame/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo01010001/Exame.git"
+  },
+  "license": "ISC",
+  "author": "Gustavo França do Santos",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
